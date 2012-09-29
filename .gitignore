@@ -5,6 +5,7 @@ target
 tmp
 .history
 modules
+lib/
 
 # Some common ignores from https://github.com/github/gitignore
 
