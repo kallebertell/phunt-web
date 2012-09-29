@@ -1,0 +1,24 @@
+WHAT
+===============================================================
+This is the backend side for http://iknowwhere.net which was 
+created at a weekend hackathon, http://aaltoes.com/build-it/, 
+in March 2012. 
+
+
+TECH
+===============================================================
+- Java
+- Play Framework 1.2.x project
+- Postgresql
+- Heroku hosting
+- Amazon s3 for file storage
+
+
+DEVELOP
+===============================================================
+- Install postgresql
+  - CREATE DATABASE phunt
+  - CREATE USER phunt
+  - GRANT ALL ON phunt TO phunt
+- Go to the project dir and write "play run"
+- Aim your browser at http://localhost:9000
